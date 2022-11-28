@@ -9,9 +9,13 @@
     let randomSent = ''
 
   async function getSentence() {
-    const x = await fetch ('http://cognitivestimulation.tech/api/sentence/getsentence10');
-    const y = await x.text();
-    randomSent = String(y);
+    randomSent =  " ";
+    for(var i=0; i<10; i++){
+      const x = await fetch ('https://cognitivestimulation.tech/api/sentence/getsentence10');
+      const y = await x.json();
+      randomSent +=  y[0]+". ";
+    }
+    
   }
 
   getSentence()
