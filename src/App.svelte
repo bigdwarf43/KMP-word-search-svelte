@@ -9,7 +9,7 @@
     let randomSent = ''
 
   async function getSentence() {
-    const x = await fetch ('http://metaphorpsum.com/paragraphs/2');
+    const x = await fetch ('http://cognitivestimulation.tech/api/sentence/getsentence10');
     const y = await x.text();
     randomSent = String(y);
   }
