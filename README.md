@@ -9,6 +9,8 @@ This is a simple implementation of the algorithm which is used to search for pat
 
 ### Check the deployed github pages environment
 
+## for running the this svelte application locally follow this guide: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started#creating_your_first_svelte_app
+
 ## References:
 https://towardsdatascience.com/pattern-search-with-the-knuth-morris-pratt-kmp-algorithm-8562407dba5b
 https://benwendt.ca/articles/the-knuth-morris-pratt-algorithm-implemented-in-javascript/
