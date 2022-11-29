@@ -12,3 +12,7 @@ This is a simple implementation of the algorithm which is used to search for pat
 ## References:
 https://towardsdatascience.com/pattern-search-with-the-knuth-morris-pratt-kmp-algorithm-8562407dba5b
 https://benwendt.ca/articles/the-knuth-morris-pratt-algorithm-implemented-in-javascript/
+
+
+![Screenshot 2022-11-29 201133](https://user-images.githubusercontent.com/62785185/204559364-92c8c94c-3dc6-4cac-ac2f-b28beec8e2de.png)
+![Screenshot 2022-11-29 201200](https://user-images.githubusercontent.com/62785185/204559373-6b66dd49-9703-4e2d-bff4-29b6618ea6dc.png)
