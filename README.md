@@ -7,6 +7,8 @@ The basic idea behind KMP’s algorithm is: whenever we detect a mismatch (after
 
 This is a simple implementation of the algorithm which is used to search for patterns in some text. 
 
+## Check the deployed files 
+
 ## References:
 https://towardsdatascience.com/pattern-search-with-the-knuth-morris-pratt-kmp-algorithm-8562407dba5b
 https://benwendt.ca/articles/the-knuth-morris-pratt-algorithm-implemented-in-javascript/
